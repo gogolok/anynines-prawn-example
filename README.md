@@ -6,8 +6,6 @@
 
 ## Get started
 
-    bundle
-    gem install a9s
-    cf target https://api.de.a9s.eu
+    cf api https://api.aws.ie.a9s.eu
     cf login
     cf push
