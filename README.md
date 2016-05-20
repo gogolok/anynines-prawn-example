@@ -14,4 +14,4 @@ http://anynines-prawn-example.aws.ie.a9sapp.eu
 
 ## Blog Post
 
-* OLD: http://blog.anynines.com/generating-pdfs-prawn-ruby/
+* http://blog.anynines.com/generating-pdfs-prawn-ruby/
