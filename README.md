@@ -9,3 +9,7 @@
     cf api https://api.aws.ie.a9s.eu
     cf login
     cf push
+
+## Blog Post
+
+* OLD: http://blog.anynines.com/generating-pdfs-prawn-ruby/
